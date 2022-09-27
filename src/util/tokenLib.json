@@ -1,0 +1,23 @@
+{
+  "tokens": [{
+      "address": "0x7150A3CC09429583471020A6CE5228A57736180a",
+      "name": "ExampleToken1",
+      "prefix": "thx1"
+    },
+    {
+      "address": "0xe1c01805a21ee0DC535afa93172a5F21CE160649",
+      "name": "ExampleToken2",
+      "prefix": "thx2"
+    },
+    {
+      "address": "0xf228ADAa4c3D07C8285C1025421afe2c4F320C59",
+      "name": "ExampleToken3",
+      "prefix": "thx3"
+    },
+    {
+      "address": "0x8613B8E442219e4349fa5602C69431131a7ED114",
+      "name": "ExampleToken4",
+      "prefix": "thx4"
+    }
+  ]
+}
